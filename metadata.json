@@ -1,0 +1,6 @@
+{
+  "name": "Rongdhonu Online Seva",
+  "description": "All citizen services, online government portal, assisted digital application, and automated mobile banking wallet for Rongdhonu Digital Studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
